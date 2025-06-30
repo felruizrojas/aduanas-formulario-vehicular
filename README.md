@@ -8,14 +8,11 @@ El proyecto aborda la creación de un formulario interactivo que mejora la efici
 
 ---
 
-### 🔹 v0.1.0
-- `req_v0.1.0.xlsx` → Requisitos iniciales del sistema.
+### 🔹 v1.1.0
+- `req_v0.1.0.xlsx` → Entrega inicial: primeros avances. Requisitos iniciales del sistema.
 
-### 🔹 v0.2.0
-- `gantt_v0.2.0.xlsx` → Planificación del proyecto en diagrama de Gantt.
-
-### 🔹 v1.0.0
-- `soft_f_ruiz_c1_v1.0.0.pdf` → Entrega inicial: primeros avances.
+### 🔹 v1.2.0
+- `gantt_v0.2.0.xlsx` → Entrega inicial: primeros avances. Planificación del proyecto en diagrama de Gantt.
 
 ### 🔹 v2.0.0
 - `DAS_ruiz_felipe_c2_v2.0.0.docx` → Documento intermedio: Diseño arquitectonico, requisitos de calidad y evaluación preliminar.
