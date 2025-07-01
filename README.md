@@ -8,16 +8,16 @@ El proyecto aborda la creación de un formulario interactivo que mejora la efici
 
 ---
 
-### 🔹 v1.1.0
+### 🔹 v1.0.0
 - `req_v0.1.0.xlsx` → Entrega inicial: primeros avances. Requisitos iniciales del sistema.
 
-### 🔹 v1.2.0
+### 🔹 v1.0.0
 - `gantt_v0.2.0.xlsx` → Entrega inicial: primeros avances. Planificación del proyecto en diagrama de Gantt.
 
-### 🔹 v2.0.0
+### 🔹 v1.0.0
 - `DAS_ruiz_felipe_c2_v2.0.0.docx` → Documento intermedio: Diseño arquitectonico, requisitos de calidad y evaluación preliminar.
 
-### 🔹 v3.0.0
+### 🔹 v1.1.5
 - `DAS_ruiz_felipe_c3_v3.0.0.docx` → Documento final: incluye incluye prototipo en Figma, evaluación heurística completa (Nielsen), control de versiones consolidado, conclusión del sistema y ajustes finales de diseño.
 
 ---
