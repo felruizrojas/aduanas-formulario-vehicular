@@ -8,17 +8,14 @@ El proyecto aborda la creación de un formulario interactivo que mejora la efici
 
 ---
 
-### 🔹 v1.0.0
-- `req_v0.1.0.xlsx` → Entrega inicial: primeros avances. Requisitos iniciales del sistema.
+| 📁 Archivo                           | 🔢 Versión | 📌 Descripción                                                                                                                                             |
+| ------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 `req_v1.0.0.xlsx`                 | `1.0.0`    | Entrega inicial: primeros avances. Requisitos funcionales y no funcionales.                                                                                |
+| 📊 `gantt_v1.0.0.xlsx`               | `1.0.0`    | Entrega inicial: planificación del proyecto mediante diagrama de Gantt.                                                                                    |
+| 🏗️ `DAS_ruiz_felipe_c2_v1.1.0.docx` | `1.1.0`    | Documento intermedio: diseño arquitectónico, requisitos de calidad y evaluación preliminar.                                                                |
+| 📦 `DAS_ruiz_felipe_c3_v1.2.0.docx`  | `1.2.0`    | Documento consolidado: incluye prototipo en Figma, evaluación heurística completa (Nielsen), control de versiones y conclusiones del sistema.              |
+| 📦 `DAS_ruiz_felipe_c3_v1.2.1.docx`  | `1.2.1`    | Documento final: incluye retroalimentación, prototipo en Figma, evaluación heurística completa (Nielsen), control de versiones y conclusiones del sistema. |
 
-### 🔹 v1.0.0
-- `gantt_v0.2.0.xlsx` → Entrega inicial: primeros avances. Planificación del proyecto en diagrama de Gantt.
-
-### 🔹 v1.0.0
-- `DAS_ruiz_felipe_c2_v2.0.0.docx` → Documento intermedio: Diseño arquitectonico, requisitos de calidad y evaluación preliminar.
-
-### 🔹 v1.1.5
-- `DAS_ruiz_felipe_c3_v3.0.0.docx` → Documento final: incluye incluye prototipo en Figma, evaluación heurística completa (Nielsen), control de versiones consolidado, conclusión del sistema y ajustes finales de diseño.
 
 ---
 
